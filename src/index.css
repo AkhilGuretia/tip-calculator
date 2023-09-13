@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app {
+  font-weight: bold;
+}
+
+select {
+  background: gainsboro;
+  font-weight: bold;
+}
+
+.reset {
+  margin-left: 6rem;
+  font-weight: bold;
+}
